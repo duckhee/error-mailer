@@ -7,9 +7,12 @@ lib-cov
 *.pid
 *.gz
 
+.idea
+
 pids
 logs
 results
+error-mailer.iml
 
 npm-debug.log
 node_modules
